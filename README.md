@@ -1,6 +1,6 @@
 # Airbnb Business Analysis
  
-Acquired real-time data from the Airbnb 'open data portal' and performed comprehensive data cleaning to enhance data quality and reliability.
+* Acquired real-time data from the Airbnb 'open data portal' and performed comprehensive data cleaning to enhance data quality and reliability.
 Conducted exploratory data analysis (EDA) from the host's perspective, uncovering insights into host behavior, preferences, and trends.
 Utilized advanced data cleaning techniques to address missing values, ensuring the integrity of the dataset and facilitating accurate analysis.
 Engineered new features tailored to the host's viewpoint, enriching the dataset and providing additional context for analysis and decision-making.
